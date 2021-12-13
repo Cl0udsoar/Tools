@@ -8,6 +8,7 @@ export PATH
 #	Dscription: Socat一键脚本
 #	Version: 1.0
 #	Github:https://github.com/Cl0udsoar/Tools
+#   Change config:etc/rc.local or /etc/rc.d/rc.local
 # ====================================================
 
 Green="\033[32m"
